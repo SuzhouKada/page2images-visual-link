@@ -1,0 +1,24 @@
+{
+  "name": "page2images-visual-link",
+  "version": "0.0.1",
+  "description": "This plugin allow you visualize links of your website by just one click installation. When user move mouse over the text links, they will see a preview picture of this link. By default, [only extra links] will have preview thumbnails. You can change the setting in the JS files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SuzhouKada",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SuzhouKada/page2images-visual-link.git"
+  },
+  "keywords": [
+    "website",
+    "screenshot",
+    "page2images"
+  ],
+  "bugs": {
+    "url": "https://github.com/SuzhouKada/page2images-visual-link/issues"
+  },
+  "homepage": "http://www.page2images.com"
+}
